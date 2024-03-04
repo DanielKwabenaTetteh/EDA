@@ -32,6 +32,7 @@ Joint plots display the relationship between age and BMI, considering insurance 
 A bubble plot is generated to visualize the relationship between BMI, claim amount, smoking status, and the number of children.
 The bubble plot highlights that smokers with higher BMIs tend to make larger insurance claims.
 
-Conclusion:
+## Conclusion: 
+
 The analysis provides insights into the relationships between different features and their impact on insurance claims. Through exploratory data analysis and advanced visualizations, patterns and trends within the dataset are identified, aiding in a better understanding of the factors influencing insurance claim amounts.
 
